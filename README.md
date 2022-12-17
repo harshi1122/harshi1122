@@ -5,7 +5,7 @@
 <img align="right" width="40%" src="https://img.freepik.com/free-vector/customer-support-flat-illustration_23-2148892786.jpg?t=st=1646033793~exp=1646034393~hmac=29f2b99e096c85c145da99145c91c4601dfd509fdee6d2ad9cff20986e07d710&w=996">
 
 
-- 🌱 Happy-go lucky Sophomore at NITR
+- 🌱 Pre Final at NITR
 - ⚡ I am currently learning Front End Web-Dev .👩‍💻
 - 👯 I’m interested in Coding, Competitive Programming and Open-Source Projects🙅‍♀️
 
